@@ -1,4 +1,4 @@
-# ✅ To-Do Website
+# 📝 To-Do Website
 
 A basic task management web application built with Django. It allows users to create, update, and delete to-do items. This project demonstrates how to build a simple CRUD (Create, Read, Update, Delete) app using Django’s Model-View-Template (MVT) architecture.
 
