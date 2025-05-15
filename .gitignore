@@ -1,0 +1,9 @@
+env/
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+.DS_Store
+__MACOSX/
+media/
+*.env
